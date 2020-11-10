@@ -1,0 +1,49 @@
+.mini-timeline-presentation-container {
+    width: 550px;
+    height: 50px;
+    position: relative;
+    margin-top: 2%;
+    margin-bottom: 5%;
+
+}
+
+.horizontal-mini-timeline-container {
+    width: 950px;
+    height: 100px;
+    position: relative;
+    margin-top: 10%;
+    overflow: visible;
+    margin-left: 30%;
+    color: #0a1015;
+}
+.horizontal-mini-timeline-container ol li {
+    font-weight: 300;
+    transition: 0.4s;
+}
+.horizontal-mini-timeline-container ol li:hover {
+    font-size: 110%;
+    font-weight: 360;
+    text-shadow: 4px 4px 4px #070D09;
+}
+.mini-timeline-swipeable-container {
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    display: none;
+}
+
+.mini-timeline-presentation-container div div ul {
+    display: none;
+}
+
+.mini-timeline-label {
+    position: absolute;
+    top: 2%;
+    font-family: 'Libre Caslon Display', serif;
+    font-size: 210%;
+}
+
+.swap div {
+    overflow: visible !important;
+}
+

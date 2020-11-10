@@ -1,0 +1,29 @@
+.select-presentation-container {
+    display: flex;
+    flex-direction: row;
+}
+.label-period-select {
+    font-family: 'Libre Caslon Display', serif;
+    font-size: 200%;
+    margin-right: 2%;
+}
+.period-select {
+    border: 2px solid black;
+    border-radius: 3%;
+    background: white;
+    transition: 1s;
+}
+
+.period-select:focus {
+    outline: none;
+}
+.period-select:active {
+    outline: none;
+}
+.option-period-select {
+
+}
+.option-period-select:hover {
+
+}
+

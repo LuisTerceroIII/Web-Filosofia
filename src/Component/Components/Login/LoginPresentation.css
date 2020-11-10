@@ -1,0 +1,56 @@
+.login-presentation-main-container {
+    margin: auto;
+    margin-top: 2%;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 130px 600px;
+    justify-items: center;
+    grid-gap: 10px;
+    height: 7000px;
+    width: 500px;
+
+}
+.title-login-presentation {
+    margin-top: 5%;
+    font-family: 'Libre Caslon Display', serif;
+    font-size: 400%;
+    font-weight: 1000;
+}
+.divisor-line-login-presentation {
+    width: 90%;
+    height: 0px;
+    border: 1px #a09c9c solid;
+}
+
+.form-login-presentation {
+    display: grid;
+    grid-template: 1fr 30px repeat(3,1fr) 10px 50px 50px / 1fr;
+    justify-items: center;
+    border: 1px #cdc8c8 groove;
+    border-radius: 3%;
+    width: 90%;
+    grid-gap: 5px;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+.label-input-container-login-presentation {
+    width: 90%;
+
+}
+.input-login-presentation {
+    width: 100%;
+}
+
+.sub-title-login-presentation {
+    color: #4c4b4b;
+    font-size: 150%;
+    justify-self: flex-start;
+    margin-left: 5%;
+    margin-top: 7%;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.check-box-login-presentation {
+    margin-top: -5%;
+}
+

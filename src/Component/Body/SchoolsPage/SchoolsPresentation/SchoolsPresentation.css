@@ -1,0 +1,9 @@
+.schools-presentation-main-container {
+    height: 600px;
+    position: relative;
+    overflow: hidden;
+}
+.schools-presentation-carousel-container {
+    position: relative;
+    left: 3%;
+}

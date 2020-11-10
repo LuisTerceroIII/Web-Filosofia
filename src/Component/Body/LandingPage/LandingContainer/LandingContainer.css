@@ -1,0 +1,37 @@
+.landing-container {
+
+}
+.landing-container--enter {
+    opacity: 0;
+    transform: scale(0.1);
+}
+.landing-container--enter-active {
+    transform: scale(1);
+    opacity: 1;
+    transition: transform 0.6s cubic-bezier(0, 0.55, 0.45, 1);
+}
+.landing-container--enter-donde {
+
+}
+.landing-container--appear {
+    transform: scale(0.8);
+
+}
+.landing-container--appear-active {
+    transform: scale(1);
+    transition: transform 2s cubic-bezier(0, 0.55, 0.45, 1);
+}
+.landing-container--appear-done {
+
+}
+.landing-container--exit {
+    opacity: 1;
+
+}
+.landing-container--exit-active {
+    opacity: 0;
+    transition: opacity 0.8s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.landing-container--exit-done {
+
+}

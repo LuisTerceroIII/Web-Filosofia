@@ -1,0 +1,48 @@
+.timeline-main-container{
+
+}
+.text-timeline-container {
+
+
+}
+
+
+/* Enter */
+.timeline-main-container--enter {
+    opacity: 0;
+    transform: scale(0.3);
+}
+.timeline-main-container--enter-active {
+    opacity: 0;
+    transform: scale(0.3);
+    transition: transform 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+
+}
+.timeline-main-container--enter-done {
+    opacity: 1;
+    transform: scale(1);
+    transition: transform 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* Exit */
+.timeline-main-container--exit {
+    opacity: 1;
+}
+.timeline-main-container--exit-active {
+    opacity: 0;
+    transition: opacity 0.7s cubic-bezier(0.34, 1.56, 0.64, 1);;
+}
+.timeline-main-container--exit-done {
+
+}
+
+
+.text-timeline-container {
+    font-family: 'Libre Caslon Display', serif;
+}
+.text-timeline-container p {
+    font-family: 'Roboto Slab', serif;
+    font-size: 120%;
+    font-weight: 400;
+
+}

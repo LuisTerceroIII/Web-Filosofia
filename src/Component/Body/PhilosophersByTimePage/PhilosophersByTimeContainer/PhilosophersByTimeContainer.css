@@ -1,0 +1,41 @@
+.philosophers-container {}
+
+/* Transitions */
+/* Enter */
+.philosophers-main-container--enter {
+    transform: scale(0.1);
+}
+.philosophers-main-container--enter-active {
+
+}
+.philosophers-main-container--enter-done {
+    transform: scale(1);
+    transition: transform 0.6s cubic-bezier(0, 0.55, 0.45, 1);
+}
+/*Appear*/
+.philosophers-main-container--appear {
+
+}
+.philosophers-main-container--appear-active {
+
+}
+.philosophers-main-container--appear-done {
+
+}
+/*Exit*/
+.philosophers-main-container--exit {
+    opacity: 0;
+
+}
+.philosophers-main-container--exit-active {
+
+}
+.philosophers-main-container--exit-done {
+    opacity: 1;
+    transition: opacity 0.7s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+
+
+
+

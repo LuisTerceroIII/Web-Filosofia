@@ -1,0 +1,315 @@
+[
+  {
+    "period": "Pre-socraticos",
+    "philosophers": [
+      {
+        "name": "Tales de Mileto",
+        "time": "624 - 546 a.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Illustrerad_Verldshistoria_band_I_Ill_107.jpg/220px-Illustrerad_Verldshistoria_band_I_Ill_107.jpg",
+        "description": "Tales (Θαλῆς), a quien se coloca tradicionalmente entre los siete sabios de Grecia, es considerado el primero de los filósofos. Desarrolló su actividad en Mileto entre fines del siglo VII y comienzos del siglo VI a. C. Muchos de los testimonios que nos han llegado acerca de su vida son probablemente legendarios. Si hemos de dar crédito a lo que de él cuentan las fuentes, fue un hombre polifacético, dedicado a la política, la astronomía y la ingeniería. Pero, sobre todo, Tales fue el primero que intentó explicar diversos fenómenos naturales aplicando un método racional; es decir, fue el primero que procuró canalizar el asombro según la manera típica de hacer de la filosofía."
+      },
+      {
+        "name": "Anaximandro",
+        "time": "610 - 545 a.C. ",
+        "image": "https://i.pinimg.com/originals/1e/e5/06/1ee506af7139e9ecd33888689d8f5208.jpg",
+        "description": "Anaximandro, milesio, discípulo de Tales, es el primer filosofo del que nos ha llegado un testimonio de su producción escrita: un corto fragmento, que ha sido numerosas veces comentado a lo largo de la historia de la filosofía. También hemos recibido algunas noticias suyas por medio de diversas fuentes doxográficas. A pesar de la escasa información que poseemos, es posible afirmar que, al igual que Tales, Anaximandro procuró encontrar una explicación para el problema del cambio. En su caso el primer principio que da razón de la estabilidad de la realidad no es el “agua” sino en el “ápeiron” – lo “indefinido”. Para algunos esto hace de Anaximandro el primer metafísico. Según el testimonio de los autores antiguos, Anaximandro hizo importantes aportaciones en los campos de la geografía y la biología, aunque era considerado sobre todo como un importante astrónomo."
+      },
+      {
+        "name": "Heráclito de Éfeso",
+        "time": "535 - 470 a.C.",
+        "image": "https://www.biografiasyvidas.com/biografia/h/fotos/heraclito_2.jpg",
+        "description": "Heráclito enseñaba que “el mundo, unidad de todo, no ha sido creado por nadie entre dioses, ni por nadie entre hombres, sino que fue, es y será un eterno fuego vivo, que se enciende y se extingue con sujeción a leyes”. La causa de todas las cosas en una primera sustancia material: el fuego. El mundo se halla en una corriente eterna: “todo fluye, todo perpetuamente cambia”; “no se puede entrar dos veces en el mismo río”. El desarrollo se origina por la lucha de principios en contradicción. Todos los cambios de las cosas se subordinan a una rigurosa sujeción a leyes, que Heráclito llamaba “logos”, que significa: razón, ley. El logos está inmanente en la misma sustancia material, el fuego, y viene a ser, según Heráclito, la ley de la naturaleza misma."
+      },
+      {
+        "name": "Pitágoras",
+        "time": "569 - 475 a.C.",
+        "image": "https://pm1.narvii.com/6569/fde107c64326a6f21cc8be6256e8e4f68417e313_hq.jpg",
+        "description": "Pitágoras fue un filósofo y matemático griego considerado el primer matemático puro. Contribuyó de manera significativa en el avance de la matemática helénica, la geometría, la aritmética, derivadas particularmente de las relaciones numéricas, y aplicadas por ejemplo a la teoría de pesos y medidas, a la teoría de la música o a la astronomía. Respecto a la música, sus conceptos de I, IV y V, fueron los pilares fundamentales en la armonización griega, y son los utilizados hoy en día. Es el fundador de la Escuela pitagórica, una sociedad que, si bien era de naturaleza predominantemente religiosa, se interesaba también en medicina, cosmología, filosofía, ética y política, entre otras disciplinas. El pitagorismo formuló principios que influyeron tanto en Platón como en Aristóteles y, de manera más general, en el posterior desarrollo de la matemática y en la filosofía racional en Occidente."
+      },
+      {
+        "name": "Parménides de Elea",
+        "time": "530 – 470 a.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Parmenides.jpg",
+        "description": "Parménides de Elea (en griego Παρμενίδης ὁ Ἐλεάτης) fue un filósofo griego. Nació entre el 530 a. C. y el 515 a. C.* 1\u200B en la ciudad de Elea, colonia griega de Magna Grecia (sur de Italia).\n\nParménides escribió una sola obra: un poema filosófico en verso épico del cual nos han llegado únicamente algunos fragmentos conservados en citas de otros autores. Los especialistas consideran que la integridad de lo que conservamos es notablemente mayor en comparación con lo que nos ha llegado de las obras de casi todos los restantes filósofos presocráticos, y por ello su doctrina puede ser reconstruida con mayor precisión.\n\nPor lo que podemos deducir a partir de los testimonios conservados, el poema de Parménides representa una revelación divina dividida en dos partes:\n\nLa vía de la verdad, donde se ocupa de «lo que es» o «ente», y expone varios argumentos que demuestran sus atributos: es ajeno a la generación y la corrupción y por lo tanto es inengendrado e indestructible, es lo único que verdaderamente existe —con lo que niega la existencia de la nada— es homogéneo, inmóvil y perfecto.\nLa vía de las opiniones de los mortales, donde trata de asuntos como la constitución y ubicación de los astros, diversos fenómenos meteorológicos y geográficos, y el origen del hombre, construyendo una doctrina cosmológica completa."
+      },
+      {
+        "name": "Empédocles de Agrigento",
+        "time": "495 o 484 - 435 o 424/3 a.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Empedocles_in_Thomas_Stanley_History_of_Philosophy.jpg/220px-Empedocles_in_Thomas_Stanley_History_of_Philosophy.jpg",
+        "description": "Empédocles de Agrigento fue un filósofo y político griego.Se interesó por el pensamiento de Parménides. Tomó de él muchos atributos asignados al Ser parmenídeo y los aplicó a su propia Sphairos, la divinidad en la cual todo estaba mezclado en armonía. Cree como Parménides que nada puede originarse de la nada y que lo que existe no puede desaparecer, pero mientras que aquel deducía de esto que la realidad era una e inmóvil, Empédocles postuló que eran cuatro los principios materiales de la realidad y que se hallaban en constante movimiento, mezclándose y  repulsándose por las fuerzas espirituales del Amor y el Odio. Estos eran los elementos propuestos por Tales de Mileto, Anaxímenes, Heraclito y Jenófanes: agua, aire, fuego y tierra respectivamente"
+      },
+      {
+        "name": "Demócrito de Abdera",
+        "time": "460 - 370 a.C.",
+        "image": "https://www.lifeder.com/wp-content/uploads/2017/05/aportaciones-de-dem%C3%B3crito.jpg",
+        "description": "Demócrito de Abdera fue un filósofo, polímata\u200B y matemático griego discípulo de Leucipo, fundador del atomismo, y maestro de Protágoras que vivió entre los siglos V-IV a. C. Tuvo un amplio campo de intereses, pero es especialmente recordado por su concepción atomista de un universo compuesto únicamente por átomos y vacío. Se le ha considerado como «el padre de la física» o «el padre de la ciencia moderna».Las contribuciones exactas de Demócrito son difíciles de separar de las de su mentor Leucipo, ya que a menudo se mencionan juntas en los textos de los doxógrafos.Una convergencia radica en su escepticismo crítico, el cual él decía que .Nada sabemos de cierto, pues la verdad está en lo profundo. Explicó además las sensaciones de un modo mecanicista, defendió una ética hedonista y una política democrática cosmopolita"
+      },
+      {
+        "name": "Protágoras de Abdera ",
+        "time": "481 - 411 a.C.",
+        "image": "https://www.biografiasyvidas.com/biografia/p/fotos/protagoras.jpg",
+        "description": "Protágoras de Abdera fue un sofista griego. Admirado experto en retórica que recorría el mundo griego cobrando elevadas tarifas por sus conocimientos acerca del correcto uso de las palabras u ortoepía. Platón le acredita como el inventor del papel del sofista profesional o profesor de \"virtud\" (entendida no como \"bondad\" sino como conocimiento y habilidad para tener éxito mundano).\nProtágoras fue un pensador viajero, celebrado y necesitado allí donde fuera. Vivió durante largas temporadas en Atenas, donde fue conocido de Sócrates y amigo de Pericles, quien le encargó la constitución para la nueva colonia de Turios, que redactó hacia 444 o 443 a. C. y en donde por primera vez en la historia, se estableció la educación pública y obligatoria. También viajó a Sicilia y a otras ciudades de Asia Menor en funciones de maestro de retórica y conducta, recibiendo a cambio cantidades notables de dinero, como el resto de sofistas. El magisterio que llegó a ejercer en el área de influencia griega se extendió en el tiempo durante cuarenta años, según nos cuenta Platón."
+      },
+      {
+        "name": "Gorgias de Leontinos",
+        "time": "483 - 435 a.C.",
+        "image": "https://2.bp.blogspot.com/-RtDV42BiTp0/UYRljFDiE6I/AAAAAAAAAWg/MpGEq4R0oLY/s1600/gorgias.jpg",
+        "description": " La vida de Gorgias, nacido hacia 487 a.C. en Lentini, Sicilia (vivió 108 años en perfecta salud física), estuvo marcada por fuertes alternancias de éxitos y fracasos: viajó por toda Grecia ejercitando con gran éxito el arte retórico, acumuló una ingente fortuna económica y dirigió la formación de numerosos seguidores. Lo acompañó una merecida fama de dialéctico capaz de desarrollar razonamientos aplastantes para sostener opiniones muy alejadas del buen sentido y de los comunes valores; por ejemplo, que nada existe, su tesis más célebre, o bien que Elena, la adúltera responsable de la guerra de Troya, no fue culpable."
+      }
+    ]
+  },
+  {
+    "period": "Helenicos",
+    "philosophers": [
+      {
+        "name": "Sexto Empírico",
+        "time": "150 - 249 a.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Sextus.jpg",
+        "description": "En sus Esbozos pirrónicos (gr.: Πυῤῥώνειοι ὑποτύπωσεις Pyrrhōneioi hypotypōseis) define el escepticismo de la manera siguiente: «El escepticismo es la facultad de oponer de todas las maneras posibles las representaciones sensibles o fenómenos y las concepciones inteligibles o noúmenos; y de ahí llegamos, por el equilibrio de las cosas y de las razones opuestas (isostenía), primero a la suspensión del juicio (epoché) y, después, a la imperturbabilidad (ataraxía)»."
+      },
+      {
+        "name": "Antístenes",
+        "time": "445 - 365 a.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Antisthenes_pushkin.jpg/220px-Antisthenes_pushkin.jpg",
+        "description": "Antístenes (griego antiguo Ἀντισθένης , Antisthénēs) (444 a. C. - 365 a. C.) fue un filósofo griego, fundador de la escuela cínica. Nació en Atenas de padres tracios, y así su condición de meteco (extranjero) lo marcó durante toda su vida. Estudió retórica bajo Gorgias, Hipias de Élide y Pródico de Ceos y más tarde se convirtió en discípulo de Sócrates, de quien adoptó y desarrolló sus enseñanzas sobre ética.\nDesencantado de la filosofía existente, perdió la fe en ella. Su entusiasmo por la disciplina socrática lo llevó a fundar una escuela en el santuario y gimnasio de Cinosargo; el nombre del lugar (probablemente de κύων ἀργός, kýōn argós, \"perro ágil\") es uno de los probables orígenes para el mote de cínicos (en griego κυνικός, kynikós, \"similar al perro\"). Sus discípulos se contaban sobre todo entre las clases populares, debido a la simplicidad que predicaba. Su vestimenta —capa y báculo— se convirtió en el uniforme de la escuela."
+      },
+      {
+        "name": "Aristipo",
+        "time": "435 - 366 a.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aristippus.jpg/220px-Aristippus.jpg",
+        "description": "Aristipo fue un filósofo griego fundador de la escuela cirenaica. Era un alumno de Sócrates, pero adoptó una perspectiva filosófica muy diferente, enseñando que el objetivo de la vida era buscar placer como bien supremo y mantener un control adecuado sobre la adversidad y la prosperidad (hedonismo ético). Entre sus alumnos estaba su hija Areta.Según Aristipo, lo que aprendió de la filosofía fue 'poder conversar con todos sin miedo'.\n"
+      },
+      {
+        "name": "Espeusipo",
+        "time": "408 - 339 a.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Speusippus_in_Thomas_Stanley_History_of_Philosophy.jpg/220px-Speusippus_in_Thomas_Stanley_History_of_Philosophy.jpg",
+        "description": "Espeusipo fue un filósofo griego y, al igual que Filipo de Opunte, llegó a ser escolarca de la Academia de Atenas.Sucedió a Platón, su tío, como escolarca en la dirección de la Academia en el año 347 a. C. De sus obras sólo quedan algunas versiones fragmentarias, de las cuales se conocen algunas teorías básicas propuestas por él. Testimonios registrados en Aristóteles y Simplicio indican, por una parte, que dio prominencia a una teoría de géneros a partir de la diairesis o división, que es criticada por Aristóteles mismo en Generación de los animales."
+      },
+      {
+        "name": "Zenón de Citio",
+        "time": "336 - 264 a.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Paolo_Monti_-_Servizio_fotografico_%28Napoli%2C_1969%29_-_BEIC_6353768.jpg",
+        "description": "Zenón de Citio el Estoico ,nació en Citio, Chipre, en aquel tiempo colonia griega. Fue un filósofo, fundador de la escuela filosófica estoica, que inició hacia el 300 a. C. en Atenas, donde desarrolló su vida intelectual. Su base fue la moral de los filósofos cínicos. Ponía énfasis en el bien racional que se obtenía a través de una vida virtuosa, es decir, acorde a la naturaleza. Su filosofía fue muy exitosa ya desde su época y floreció aún más durante el helenismo y durante el periodo imperial de Roma; de los siglos II a.C. al II d.C."
+      },
+      {
+        "name": "Posidonio",
+        "time": "135 - 51 a.C.",
+        "image": "https://scontent.faep10-1.fna.fbcdn.net/v/t1.0-9/183665_171354172911711_6665411_n.jpg?_nc_cat=111&_nc_sid=85a577&_nc_ohc=pjc6vX0cbtoAX86VlyQ&_nc_ht=scontent.faep10-1.fna&oh=417a0b015a173ccda7a04b04627b302f&oe=5F596AE8",
+        "description": " Posidonio fue un político, astrónomo, geógrafo, historiador y filósofo estoico griego, nativo de Apamea, Siria. Fue aclamado como el mayor polímata de su tiempo, aunque ninguna de sus numerosas obras puede leerse hoy en día, puesto que solo han sobrevivido fragmentos."
+      },
+      {
+        "name": "Plotino",
+        "time": "205 - 270 d.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Plotinos.jpg",
+        "description": "La propuesta central de Plotino consiste en afirmar que existe una realidad que funda cualquier otra existencia: lo Uno. De un acto de procesión, algunos optan por emanación, surge el nous y el alma. En realidad, el principio básico es solamente lo Uno, mientras que las otras dos hipóstasis y el resto de realidades son derivadas.\nHablar de hipóstasis es una atribución que hace Porfirio, discípulo de Plotino, al pensamiento de su maestro, ya que el término hipóstasis no se encuentra en el texto de las Enéadas."
+      },
+      {
+        "name": "Diógenes de Babilonia",
+        "time": "230 – 150/140 a.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Diogenes_Babylonicus.jpg/220px-Diogenes_Babylonicus.jpg",
+        "description": "Natural de Seleucia, en las proximidades de Babilonia, se educó en Atenas bajo los auspicios de Crisipo de Solos. Dirigió la escuela estoica, en relevo de Zenón de Tarso. Entre sus discípulos estaban Panecio de Rodas y Antípatro de Tarso. Parece haber seguido las opiniones de Crisipo, especialmente en dialéctica, en la que instruyó a Carnéades.\nIntegró la embajada que los griegos mandaron a Roma, junto a Carnéades y Critolao, en el año 155 a. C., para apelar la multa de cien talentos imputada a Atenas por la invasión de Oropos. Entregaron sus discursos epidícticos en el Senado. Diógenes agradó a la audiencia por su modo sobrio y templado de hablar."
+      }
+    ]
+  },
+  {
+    "period": "Medievales",
+    "philosophers": [
+      {
+        "name": "Tomás de Aquino",
+        "time": "1225 – 1274",
+        "image": "https://pymstatic.com/29440/conversions/santo-tomas-aquino-thumb.jpg",
+        "description": "Teólogo, metafísico y principal representante de la educación escolástica, fue quien recuperó los escritos aristotélicos y el primero que vio compatibles los comentarios del filósofo griego con la fe católica.\n\nProlífico e influyente, Tomás de Aquino tuvo una experiencia mística un año antes de morir que puso fin a su carrera como una figura pública. Algunas revelaciones divinas que lo trastornaron, según el registro de sus más íntimos confidentes, le impidieron seguir escribiendo.\n\n“La fe es una gracia divina que Dios da a los hombres que elige y la razón se origina también en Dios; todos los hombres tienen razón, pero no todos tienen fe”, dijo poniendo fin a la idea de la doble razón."
+      },
+      {
+        "name": "San Agustín",
+        "time": "354 – 430",
+        "image": "https://hablemosdereligion.com/wp-content/uploads/2017/10/San-Agust%C3%ADn-3.jpg",
+        "description": "Se lo conocía como el “Doctor de la Gracia” y es considerado uno de los filósofos más influyentes de la Edad Media, no porque haya vivido y analizado sus sociedades (su muerte fue anterior a la caída del imperio romano) sino porque fue fuente de inspiración de toda una generación posterior.\n\n“Dios no manda cosas imposibles, sino que al mandar lo que manda, te invita a hacer lo que puedas, pedir lo que no puedas y te ayuda para que puedas”, fue una de sus frases más recordadas."
+      },
+      {
+        "name": "Anicio Manlio Torcuato Severino Boecio",
+        "time": "480 – 524",
+        "image": "https://www.biografiasyvidas.com/biografia/b/fotos/boecio.jpg",
+        "description": "Político, filósofo y poeta latino, autor de De la consolación de la filosofía. Representante del neoplatonismo, se inclinó por el estoicismo y las ciencias exactas, y se erigió en uno de los fundadores de la filosofía cristiana de Occidente.\n\nEl propio Boecio nos dejó un breve resumen de su vida en el primer libro de su obra más célebre, De la consolación de la filosofía. Boecio pertenecía a la gens Anicia, familia que desde hacía ya más de un siglo había abrazado el cristianismo y prestado importantes servicios al Imperio romano. Fallecido muy pronto su padre, que fue cónsul en 487, halló un maestro y un amigo en Quinto Aurelio Símmaco, con cuya hija Rusticiana se casó más tarde y al cual se sintió atraído a lo largo de toda su vida por una profunda veneración."
+      },
+      {
+        "name": "San Anselmo de Canterbury",
+        "time": "1033 – 1109",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Anselm_of_Canterbury.jpg",
+        "description": "Considerado el padre de la escolástica, discípulo de Lanfranco, basaba su enseñanza en la meditación, que según él justificaba la existencia de Dios.\n\nSu principal punto de discusión fue la relación entre la fe y la razón, lo que llevó a que muchas de sus preguntas quedarán sin responder. Pensaba que no anteponer la fe, era presunción; sin embargo, no apelar a continuación a la razón era negligencia.\n\n“No busco, en efecto, entender para creer, sino que creo para entender. Pues creo esto, porque si no creyere, no entendería”, fue una de sus frases más recordada."
+      },
+      {
+        "name": "Guillermo de Ockham",
+        "time": "1280 – 1349",
+        "image": "https://t1.up.ltmcdn.com/es/images/8/3/0/la_filosofia_de_guillermo_de_ockham_resumen_3038_600.jpg ",
+        "description": "Dedicó su vida y su obra a la pobreza extrema, y fue acusado de herejía por estudiar la relación entre el papado y la doctrina de la pobreza, lo que le valió numerosos enemigos.\nAcusó a Juan Pablo XXII de hereje, fue uno de los metafísicos más importantes de su época, y se destacó por su teoría metodológica en la que establecía: “Siempre debe optarse por una explicación en términos del menor número posible de causas, factores o variables”.\nImpulsó una serie de ideas que motivaron las constituciones occidentales y las democracias liberales con sus formulaciones sobre la responsabilidad limitada del poder."
+      },
+      {
+        "name": "Averroes",
+        "time": "1126 – 1198",
+        "image": "https://4.bp.blogspot.com/_hkRb6TZWu60/TB5AoOCTxmI/AAAAAAAAAY4/gzD3zMm8Q1w/s1600/averroes.jpg",
+        "description": "Principalmente Averroes fue un estudioso de las leyes islamitas, además de comentar la obra de Aristóteles y desarrollar algunos conceptos sobre medicina.\nCentró su estudio filosófico principalmente en determinar cómo piensa el ser humano, más puntualmente en establecer cómo se llega a la formulación de verdades universales, siguiendo los conceptos de Aristóteles.\nConocido como “El Comentador”, por desglosar todas las frases del genio griego, su distinción entre el conocimiento humano y el divino fue su gran aporte."
+      },
+      {
+        "name": "Juan Escoto Erígena",
+        "time": "810 – 877",
+        "image": "https://www.biografiasyvidas.com/biografia/e/fotos/escoto.jpg",
+        "description": "Este filósofo se destacó por su explicación de la realidad mediante una metodología racional que contradecía el dualismo religioso basado en que Dios y el mundo son cuestiones diferentes\n\nAdemás, Erígena rechaza la creencia cristiana de que el universo fuera creado de la nada y establecía a Dios como el punto más alto de toda la evolución."
+      },
+      {
+        "name": "Avicena",
+        "time": "980 – 1037",
+        "image": "https://www.biografiasyvidas.com/biografia/a/fotos/avicena_2.jpg",
+        "description": "Autor de 300 libros, es considerado uno de los médicos más importantes de la historia y es el inventor de la traqueotomía.\n\nEscribió La Curación, descripta como la obra más grande (en dimensiones e importancia) producida por un solo hombre, y es el filósofo islámico más estudiado y analizado.\n\n“El vino es el amigo del sabio y el enemigo del borracho. Es amargo y útil como el consejo del filósofo, está permitido a la gente y prohibido a los imbéciles. Empuja al estúpido hacia las tinieblas y guía al sabio hacia Dios”, escribió."
+      },
+      {
+        "name": "Pedro Abelardo",
+        "time": "1079 – 1142",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Abelard.jpg",
+        "description": "Dedicó su vida a la música, la poesía, la enseñanza y el debate, y es considerado uno de los genios de la lógica, siguiendo los preceptos de Boecio, Porfirio y Aristóteles.\n\nSu misión teórica fue conciliar el realismo y el nominalismo. Además, expuso un controvertida idea en la que reclamaba que la fe estaba limitada por los principios racionales. Su filosofía crítica fue considerada de avanzada en la Edad Media."
+      },
+      {
+        "name": "Al-Ghazali",
+        "time": "1058 – 1111",
+        "image": "https://2.bp.blogspot.com/-mmj_9GMRmVo/Wk4xV5zWLrI/AAAAAAAADmk/CEqwHT-hd4kVcf2s5_JE4wc90BG-cKn3QCLcBGAs/s1600/26551143_517070295339443_928496942_n.jpg",
+        "description": "La historia de este filósofo es tan particular como su obra. Dejó todo tras una crisis de fe, se fue de su casa a meditar y vivir como un mendigo y regresó con El resurgimiento de las ciencias religiosas, considerada la obra más importante de la espiritualidad islámica y la más leída después del Corán.\n\n“No es sabio aquel que, adquiriendo su conocimiento de cierto libro, se convierte en ignorante al olvidar el texto que aprendiera un día. El verdadero sabio es aquel que, por su propia voluntad y sin estudio o enseñanza, recibe de Dios su conocimiento”, es una de sus frases más célebres."
+      }
+    ]
+  },
+  {
+    "period": "Modernos",
+    "philosophers": [
+      {
+        "name": "René Descartes",
+        "time": "1596 - 1650",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
+        "description": "René Descartes, también llamado Renatus Cartesius (en escritura latina) (La Haye en Touraine, 31 de marzo de 1596-Estocolmo, Suecia, 11 de febrero de 1650), fue un filósofo, matemático y físico francés, considerado como el padre de la filosofía moderna,3\u200B4\u200B así como uno de los protagonistas con luz propia en el umbral de la revolución científica.\nMuchos elementos de la filosofía de Descartes tienen precedentes en el aristotelismo tardío, el estoicismo o en filósofos medievales como San Agustín. En su filosofía natural, rechazó cualquier apelación a los fines finales, divinos o naturales, al explicar los fenómenos naturales en términos mecánicos. En su teología, insiste en la libertad absoluta del acto de creación de Dios. Al negarse a aceptar la autoridad de filósofos anteriores, Descartes con frecuencia distingue sus puntos de vista de los filósofos que lo precedieron. Afirmó un dualismo sustancial entre el alma y el cuerpo, rompiendo con la tradición aristotélica. Su declaración filosófica más conocida es \"Pienso, luego existo\" (en latín: cogito, ergo sum), que se encuentra en Discurso del método (1637) y en Principios de la Filosofía (1644)."
+      },
+      {
+        "name": "Baruch De Spinoza",
+        "time": "1632 - 1677",
+        "image": "https://cienciasdelsur.com/wp-content/uploads/2018/05/Spinoza.jpg",
+        "description": "Spinoza fue un racionalista, entendido esto como miembro de la corriente filosófica que surgió en Europa durante el siglo XVII. No obstante, hemos de recordar que el concepto de racionalismo es mucho más amplio, pues algunas de sus ideas y postulados estaban ya presentes en la antigua Grecia, como, por ejemplo, en la obra de Platón."
+      },
+      {
+        "name": "David Hume",
+        "time": "1711 - 1776",
+        "image": "https://dtcauayj04l84.cloudfront.net/users/nicolas.boullosa/photos/hume-big.jpg",
+        "description": "Hume es uno de los autores más influyentes de la tradición empirista, del periodo ilustrado y del liberalismo. Más que en la originalidad, la fascinación de sus escritos se basa en la radicalidad, en la manera de proponer los límites y las consecuencias del pensamiento, con un estilo literario de primer orden.\n\nLas bases de su filosofía del conocimiento son rudimentarias y deliberadamente reductivas, como es el caso de la mayoría de los empiristas. La contundencia con la que expresa sus principios y el modo como se asocia a las modas intelectuales en boga —la adaptación filosófica de la física de Newton, con su carga de optimismo en el progreso científico— hacen pasar por alto algunas deficiencias de fondo."
+      },
+      {
+        "name": "Immanuel Kant",
+        "time": "1724 - 1804",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Immanuel_Kant_%28painted_portrait%29.jpg",
+        "description": "La filosofía kantiana, llamada por su autor Idealismo Trascendental y conocida entre nosotros también como filosofía crítica o \"criticismo\", se desarrolla a partir de una nueva solución del problema del conocimiento según la cual los elementos formales y los elementos materiales del conocimiento han de colaborar para que éste pueda darse, pretendiendo, de este modo, superar las limitaciones del empirismo y del racionalismo."
+      },
+      {
+        "name": "Gottfried Wilhelm Leibniz ",
+        "time": "1646 - 1716",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Leibniz_Hannover.jpg",
+        "description": "Filósofo y matemático alemán. Su padre, profesor de filosofía moral en la Universidad de Leipzig, falleció cuando Leibniz contaba seis años. Capaz de escribir poemas en latín a los ocho años, a los doce empezó a interesarse por la lógica aristotélica a través del estudio de la filosofía escolástica.\n\n"
+      },
+      {
+        "name": "John Locke",
+        "time": "1632 - 1704",
+        "image": "https://elimperiodedes.files.wordpress.com/2016/02/johnlocke.png",
+        "description": "Pensador británico, uno de los máximos representantes del empirismo inglés, que destacó especialmente por sus estudios de filosofía política. Este hombre polifacético estudió en la Universidad de Oxford, en donde se doctoró en 1658. Aunque su especialidad era la medicina y mantuvo relaciones con reputados científicos de la época (como Isaac Newton), John Locke fue también diplomático, teólogo, economista, profesor de griego antiguo y de retórica, y alcanzó renombre por sus escritos filosóficos, en los que sentó las bases del pensamiento político liberal."
+      },
+      {
+        "name": "Thomas Hobbes",
+        "time": "1588 - 1679",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Thomas_Hobbes_by_John_Michael_Wright_(2).jpg",
+        "description": "(Westport, Inglaterra, 1588 - Hardwick Hall, id., 1679) Filósofo inglés. Hijo de un eclesiástico, quedó a cargo de su tío cuando el padre abandonó a la familia, tras participar en una pelea en la puerta de su iglesia. Estudió en el Magdalen Hall de Oxford, y en 1608 entró al servicio de la familia Cavendish como preceptor de uno de sus hijos, a quien acompañó en sus viajes por Francia e Italia entre 1608 y 1610."
+      },
+      {
+        "name": "Francis Bacon",
+        "time": "1561 - 1626",
+        "image": "https://www.biografiasyvidas.com/biografia/b/fotos/bacon_francis_2.jpg",
+        "description": "Filósofo y político inglés. Su padre era un alto magistrado en el gobierno de Isabel I, y fue educado por su madre en los principios del puritanismo calvinista. Estudió en el Trinity College de Cambridge y en 1576 ingresó en el Gray's Inn de Londres para estudiar leyes, aunque pocos meses después marchó a Francia como miembro de una misión diplomática."
+      },
+      {
+        "name": "Voltaire",
+        "time": "1694 - 1778",
+        "image": "https://www.biografiasyvidas.com/biografia/v/fotos/voltaire.jpg",
+        "description": "Escritor francés. Figura intelectual dominante de su siglo y uno de los principales pensadores de la Ilustración, dejó una obra literaria heterogénea y desigual, de la que resaltan sus relatos y libros de polémica ideológica. Como filósofo, Voltaire fue un genial divulgador, y su credo laico y anticlerical orientó a los teóricos de la Revolución Francesa."
+      },
+      {
+        "name": "Jean-Jacques Rousseau",
+        "time": "1712 - 1778",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg",
+        "description": "Representante del ala pequeñoburguesa de izquierda de los ilustrados fraceses, filósofo, sociólogo, estético y teórico de la pedagogía. En las cuestiones de la concepción del mundo se atenía al deísmo. Además de la existencia de Dios, reconocía también el alma inmortal. Rousseau consideraba la materia y el espíritu como dos principios que existen desde toda la eternidad (Dualismo). En la teoría del conocimiento se sumaba al sensualismo, aunque reconocía el carácter innato de las ideas morales. Como sociólogo, Rousseau sostenía el punto de vista radical. Criticó con aspereza las relaciones estamentales feudales y el régimen despótico y propugnaba la democracia burguesa, las libertades cívicas y la igualdad de los hombres independientemente de su origen. Rousseau veía las causas de la desigualdad en la aparición de la propiedad privada. Al mismo tiempo se pronunciaba por perpetuar la pequeña propiedad. Como partidario de la teoría del contrato social, opinaba, a diferencia de Hobbes, que en el “estado natural”, lejos de librarse una guerra de todos contra todos, entre los hombres reinaban la amistad y la armonía. Rousseau criticó duramente el viejo sistema estamental-feudal de educación y exigía que la educación se plantease la tarea de formar a ciudadanos activos, que respetaran el trabajo. Los fundadores del marxismo-leninismo apreciaron altamente el papel histórico de Rousseau, subrayando al mismo tiempo su idealismo y estrechez burguesa. Obras filosóficas y sociológicas principales: Discurso sobre el origen y los fundamentos de la desigualdad entre los hombres (1755) y Contrato social (1762)."
+      },
+      {
+        "name": "Georg Wilhelm Friedrich Hegel",
+        "time": "1770 - 1831",
+        "image": "https://www.xlsemanal.com/wp-content/uploads/sites/3/2019/12/conocer-historia-hegel-un-filosofo-con-dos-caras-se-celebra-el-250-o-aniversario-de-su-nacimiento-5-786x1024.jpg",
+        "description": "Filósofo alemán. Hegel estudió primero en el instituto de su ciudad natal, y entre 1788 y 1793 siguió estudios de teología en Tubinga, donde fue compañero del poeta Hölderlin y del filósofo Schelling, gracias al cual se incorporó en 1801 como docente a la Universidad de Jena, que sería clausurada a la entrada de Napoléon en la ciudad (1806)."
+      }
+    ]
+  },
+  {
+    "period": "Contemporaneos",
+    "philosophers": [
+      {
+        "name": "Friedrich Wilhelm Nietzsche",
+        "time": "1844 - 1900",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nietzsche187a.jpg",
+        "description": "Según Nietzsche, la cultura occidental está viciada desde su origen, porque el error más peligroso de todos consiste en intentar instaurar la racionalidad a toda costa. El error de la filosofía griega habría sido la invención del \"estatismo del ser\" (Parménides) y del \"bien en si\" (Platón). La manera griega de ver el mundo, es interpretada por Nietzsche como un síntoma de decadencia. Es decadente todo aquello que se opone a todos los valores del existir instintivo y biológico del hombre. Hay que criticar a Platón para eliminar los errores de base; se trata de una crítica total a los tres mundos que son inventados por el hombre occidental y que son síntomas de su decadencia: El mundo racional, el mundo moral y el mundo religioso."
+      },
+      {
+        "name": "Martin Heidegger",
+        "time": "1889 - 1976",
+        "image": "https://elvuelodelalechuza.files.wordpress.com/2014/07/heidegger-joven.jpg?w=288&h=406",
+        "description": "Filósofo alemán. Discípulo de Edmund Husserl, su indiscutible preminencia dentro de la filosofía continental se ha visto marcada siempre por la polémica, sobre todo la de su adhesión al régimen nacionalsocialista, manifestada en el discurso que pronunció en la toma de posesión de la cátedra en la Universidad de Friburgo (1933)."
+      },
+      {
+        "name": "Michel Foucault",
+        "time": "1926 - 1984",
+        "image": "https://foucaultmichel.files.wordpress.com/2013/01/michel-foucault.jpg",
+        "description": "Influido por Nietzsche, Heidegger y Freud, en su ensayo titulado Las palabras y las cosas (1966) desarrolló una importante crítica al concepto de progreso de la cultura, al considerar que el discurso de cada época se articula alrededor de un «paradigma» determinado, y que por tanto resulta incomparable con el discurso de las demás. Del mismo modo, no podría apelarse a un sujeto de conocimiento (el hombre) que fuese esencialmente el mismo para toda la historia, pues la estructura que le permite concebir el mundo y a sí mismo en cada momento, y que se puede identificar, en gran medida, con el lenguaje, afecta a esta misma «esencia» o convierte este concepto en inapropiado."
+      },
+      {
+        "name": "Gilles Deleuze",
+        "time": "1925 - 1995",
+        "image": "https://uninomadasur.net/wp-content/uploads/2018/09/deleuze.jpg",
+        "description": "Categorizado académicamente como uno de los principales filósofos de la diferencia junto a Michel Foucault y Jacques Derrida, en la actualidad, el pensamiento de Gilles Deleuze se está convirtiendo en uno de los más difundidos y utilizados tanto en campos afines como lejanos a la filosofía. En efecto, los conceptos desarrollados junto a Félix Guattari durante la década de los 70 en El AntiEdipo y Mil Mesetas mantienen una presencia creciente en la ontología, el psicoanálisis, la teoría política, la crítica literaria y artística, la arquitectura y el urbanismo, la teoría de género, el postcolonialismo, e incluso en los últimos desarrollos de la teoría de la información y la biología genética.\n\nLa originalidad y novedad conceptual que conlleva su trabajo junto a Guattari hunde sus raíces en un análisis pormenorizado de la filosofía moderna, encaminado a reconstruir una interpretación alternativa de la misma en conflicto directo con el platonismo, el racionalismo cartesiano y la dialéctica hegeliana. Para ello, Deleuze problematizará principalmente el concepto de representación, la dualidad sujeto-objeto, y las relaciones de trascendencia, a las que contrapondrá nuevos conceptos como devenir, acontecimiento, rizoma, virtual, o agenciamiento, basados todos ellos en la univocidad del ser y la inmanencia absoluta de toda realidad."
+      },
+      {
+        "name": "Jacques Derrida",
+        "time": "1930 - 2004",
+        "image": "https://cultura.nexos.com.mx/wp-content/uploads/2016/10/derrida.jpg",
+        "description": "Para bien o para mal, el nombre de Jacques Derrida ha pasado a la historia de la filosofía y las humanidades como sinónimo de la “Deconstrucción”, si bien desde un ámbito estrictamente académico actualmente se le está re-situando dentro de una categoría más amplia denominada “Filosofía de la diferencia”, junto a la obra de otros filósofos como Michel Foucault o Gilles Deleuze. De cualquiera manera, la compleja obra de Jacques Derrida se caracteriza por una gran proliferación de nuevos términos no exclusivamente conceptuales como por ejemplo son los de “différance”, “huella”, “suplemento”, “subyectil”, “párergon”, “espaciamiento”, “khora” o la misma “deconstrucción” que, juntos, conforman una crítica múltiple a la historia de la metafísica y la ontología occidental en tanto que “fonocéntrica”, “logocéntrica” o “falocéntrica”.\n\nEs desde este marco general de revisión de la racionalidad y los conceptos propiamente filosóficos que Jacques Derrida ejercerá su trabajo desde campos tan variados como la fenomenología trascendental, la filosofía del lenguaje, la semiótica estructuralista, la estética y las artes, el psicoanálisis, la teoría de género, la filosofía política, la filosofía de la historia, la filosofía del derecho y la teoría literaria. Ámbitos todos ellos en los que tratará de mostrar cómo, paradójicamente, sus mismas “condiciones de posibilidad” son y no pueden no ser, simultáneamente, sus “condiciones de im-posibilidad”.\n\n"
+      },
+      {
+        "name": "Max Horkheimer",
+        "time": "1895 - 1973",
+        "image": "https://www.ecured.cu/images/0/0e/Max-horkheimer.jpg",
+        "description": "Max Horkheimer (1895-1973) es uno de los principales representantes de la llamada Escuela de Frankfurt. Con dicho nombre suele aludirse a un grupo de intelectuales alemanes que conformaron el Instituto de Investigación Social (Institut für Sozialforschung), asociado a la Universidad de Frankfurt. Aunque el Instituto inició en los años veinte (creado en 1923 e inaugurado en 1924) se tiene noticia de él hasta principios de los años setenta cuando el historiador Martin Jay puso de manifiesto la historia y relevancia de la Escuela de Frankfurt que continúa hasta nuestros días.\n\nEl Instituto tenía como objetivo explorar nuevas dimensiones en un esfuerzo de trabajo interdisciplinario así como el planteamiento de discusiones crítico-dialécticos del desarrollo de la sociedad burguesa y de la cultura de masas. Su principal promotor fue Max Horkheimer quien, junto Felix Weil y Friedrich Pollock sentaron las bases de lo que sería la Escuela de Frankfurt. Además del interés que presenta el estudio de Horkheimer para comprender el término “teoría crítica” al ser quien lo acuña, es de interés su estudio para profundizar sobre la historia y desarrollo del Instituto. Esto por dos motivos: 1) su personalidad denota el genuino espíritu de los miembros del Instituto cuyo propósito fundamental era recordar el sufrimiento de las víctimas e intentar pensar en modos de dar término a la injusticia social y 2) las etapas de su vida se asemejan, de algún modo, a las etapas del propio Instituto, comúnmente dividido en tres generaciones."
+      },
+      {
+        "name": "Karl Raimund Popper",
+        "time": "1902 - 1994",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg",
+        "description": "Aunque próximo a la filosofía neopositivista del Círculo de Viena (representada por pensadores como Rudolf Carnap, Otto Neurath o Kurt Gödel, entre otros), Karl Popper llevó a cabo una importante crítica de algunos de sus postulados; así, acusó de excesivamente dogmática la postura de dividir el conocimiento entre proposiciones científicas, que serían las únicas propiamente significativas, y metafísicas, que no serían significativas. Para Popper, bastaría con delimitar rigurosamente el terreno propio de la ciencia, sin que fuera necesario negar la eficacia de otros discursos en ámbitos distintos al de la ciencia."
+      },
+      {
+        "name": "Ludwig Josef Johann Wittgenstein",
+        "time": "1889 - 1951",
+        "image": "https://www.biografiasyvidas.com/biografia/w/fotos/wittgenstein.jpg",
+        "description": "Ludwig Wittgenstein (1889-1951) es considerado en la actualidad como uno de los filósofos más originales e influyentes del siglo XX. Sin embargo, a pesar de que dos escuelas filosóficas bien conocidas creyeron encontrar en sus métodos y pensamientos no pocos motivos de inspiración y confirmación (el neopositivismo del Círculo de Viena y la filosofía del lenguaje ordinario de Óxford o filosofía analítica), él mismo rechazó ser identificado con ninguna de ellas. Por otra parte, aunque se acostumbra a inscribir su trabajo filosófico en el ámbito de la llamada filosofía del lenguaje y del giro lingüístico (Rorty) experimentado por la filosofía desde Nietzsche, cabe defender la tesis de que Wittgenstein no dejó de ser, en el fondo, un autor metafísico, aunque de forma muy peculiar. Debemos aclarar, pues, qué tipo de pensamiento nos ha legado Wittgenstein, cuál era su intención filosófica y qué retos plantea a la filosofía y a la teología. Probablemente, así resulte mejor dibujado el perfil de su genial e indiscutible figura filosófica."
+      },
+      {
+        "name": "Jean-Paul Charles Aymard Sartre",
+        "time": "1905 - 1980",
+        "image": "https://www.infobae.com/new-resizer/8WW8xFJ1GuRxdJpL8NDs5SwX65w=/420x420/filters:format(jpg):quality(85)//arc-anglerfish-arc2-prod-infobae.s3.amazonaws.com/public/DK7PK35ELVCVHA22U7J6L5NF5Q.jpg",
+        "description": "Filósofo y escritor francés. Es un representante del denominado existencialismo “ateo”. Principales trabajos: El ser y la nada (1943), El existencialismo es un humanismo (1947), Crítica de la razón dialéctica (1960). Las concepciones de Sartre se han formado bajo la influencia de Husserl y Heidegger. También existe cierto nexo entre su filosofía y la doctrina de Kierkegaard; asimismo algo influyó sobre Sartre el método del psicoanálisis de Freud. Son característicos de su filosofía, el antropocentrismo y el subjetivismo. Sartre concibe al hombre como “ser para sí”, del que se derivan tales formas del “ser en sí” (es decir, del mundo objetivo) como espacio y tiempo, cantidad y calidad, &c. De este modo, al mundo objetivo –que, según Sartre, es irrazonable, determinado– se contrapone la actividad humana, que es libre, no depende de leyes objetivas. Tal representación idealista de la libertad (su esencia se halla expresada también en el principio: “El hombre es lo que él hace de sí mismo”) figura en la base de la ética de Sartre. En algunos de sus trabajos, Sartre emprende la ilusoria tentativa de demostrar el existencialismo recurriendo a la filosofía del marxismo. Sartre participó en la Resistencia francesa durante los años de la segunda guerra mundial; lucha activamente contra el renacimiento del fascismo, en defensa de la paz: es miembro del Consejo Mundial de la Paz."
+      },
+      {
+        "name": "Simone de Beauvoir",
+        "time": "1908 - 1986",
+        "image": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/12/22183359/Simone-de-Beauvoir-La-Vejez-SF-2.jpg",
+        "description": "Pensadora y novelista francesa, representante del movimiento existencialista ateo y figura importante en la reivindicación de los derechos de la mujer. Originaria de una familia burguesa, destacó desde temprana edad como una alumna brillante. Estudió en la Sorbona y en 1929 conoció a Jean-Paul Sartre, que se convirtió en su compañero durante el resto de su vida."
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+.time-line-container {
+    margin-top: 3%;
+    height: 145px;
+    margin-left: 5%;
+
+}
+
+.time-line-container ol li{ /*!* texto de siglos*!*/
+    font-weight: 300;
+}
+.time-line-container ol li:hover{ /*!* texto de siglos*!*/
+    font-size: 120%;
+    font-weight: 360;
+    text-shadow: 4px 4px 4px #070D09;
+}
+.events-wrapper { /* se hace visible las etiquetas del timeline*/
+    overflow: visible !important;
+}
+.buttons {
+    display: none;
+}
+
+.knowMoreButton {
+    border: none;
+    border-radius: 100%;
+    font-size: 450%;
+    margin-left: 10%;
+    color: black;
+    align-self: center;
+    margin-right: 10%;
+    background-color: white;
+    transition: 1s;
+}
+
+.knowMoreButton:hover {
+    border-radius: 100%;
+    color: black;
+    text-shadow: 10px 3px 10px #a4a3a3;
+}
+.message-button {
+    margin-top: 0%;
+    font-family: 'Libre Caslon Display', serif;
+}
+
+
+
+
+

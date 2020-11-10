@@ -1,0 +1,133 @@
+.philosophers-container {
+    margin: 5%;
+    margin-bottom: 10%;
+    position: relative;
+
+}
+.title-container-philosopher {
+   display: flex;
+   justify-content: center;
+    margin-top: -4%;
+    margin-bottom: 10% ;
+}
+.title-container-philosopher h1 {
+    font-family: 'Libre Caslon Display', serif;
+    font-size: 350%;
+    font-weight: 550;
+
+}
+.philosopher-list {
+    float: left;
+    padding: 1%;
+    line-height: 300%;
+    margin: 2%;
+    cursor: pointer;
+    font-family: 'Roboto Slab', serif;
+    font-size: 120%;
+    font-weight: 500;
+}
+.philosopher-list li {
+    color: black;
+    transition: color 0.2s;
+}
+.philosopher-list li:hover {
+    color: #d76464;
+    font-weight: 400;
+    cursor: pointer;
+}
+.philosopher-list-two {
+    margin-left: -2%;
+}
+.image-container {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+.image-container img {
+    width: 100%;
+    max-width: 300px;
+    min-height: 300px;
+    border-radius: 50%;
+}
+.image-container h5 {
+    margin-top: 5%;
+    font-family: 'Libre Caslon Display', serif;
+    font-weight: 800;
+}
+.image-container h6 {
+    margin-bottom: 40%;
+    font-family: 'Libre Caslon Display', serif;
+    font-weight: 800;
+}
+.philosopher-description-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 13%;
+}
+.philosopher-description-container p {
+    margin-left: 10%;
+    font-family: 'Roboto Slab', serif;
+    font-size: 120%;
+    font-weight: 500;
+
+}
+
+.philosopher-Button {
+    border: none;
+    font-size: 250%;
+    color: black;
+    border: white;
+    background: white;
+    margin-top: 5%;
+    cursor: pointer;
+    transition: 1s;
+
+}
+.philosopher-Button:hover {
+    border-radius: 100%;
+    color: black;
+    text-shadow: 10px 3px 10px #797676;
+    border: none;
+    cursor: pointer;
+}
+.message-button-philosopher {
+    margin: 0;
+    font-size: 200%;
+    font-weight: 550;
+    clear: both;
+    font-family: 'Libre Caslon Display', serif;
+}
+
+
+.select-philosophers-container {
+    height: 50px;
+    position: absolute;
+    left: -2%;
+    margin-top: 2%;
+    margin-left: 13%;
+    margin-bottom: 20%;
+}
+
+/*Transition*/
+
+/*Enter*/
+.philosophers-container--enter {
+    transform:scale(0.1) ;
+}
+.philosophers-container--enter-active {
+    transform:scale(1) rotate(-360deg); transition: transform 1s cubic-bezier(0, 0.55, 0.45, 1)
+}
+.philosophers-container--enter-done {}
+/*Exit*/
+.philosophers-container--exit {}
+.philosophers-container--exit-active {opacity: 1; }
+.philosophers-container--exit-done {
+    opacity: 0.5; transition: opacity 1.5s;
+}
+
+
+

@@ -1,0 +1,44 @@
+.time-line-schools-main-container {
+    position: absolute;
+    width: 94.5%;
+    height: 550px;
+    /*border: 5px brown solid;*/
+    overflow: hidden;
+
+}
+.time-line-schools-bar {
+    position: relative;
+    left: 50%;
+    transform: translateX(-22%);
+    bottom: -5%;
+    overflow: visible;
+    height: 90px;
+
+}
+.time-line-schools-bar ol li {
+    font-weight: 300;
+    transition: 0.4s;
+    position: relative;
+}
+.time-line-schools-bar li:hover {
+    font-size: 110%;
+    font-weight: 360;
+    text-shadow: 4px 4px 4px #070D09;
+}
+
+.time-line-schools-bar div div ul  {
+    display: none;
+}
+.time-line-schools-card-set-container {
+    top: 5%;
+    width: 100%;
+    height: 380px;
+    position: relative;
+ /*   border: 2px green solid;*/
+    overflow: hidden;
+
+}
+
+.time-line-schools-swipeable div {
+    overflow: visible !important;
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "period": "Edad Antigua",
+    "name": "Escuela de Mileto",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Illustrerad_Verldshistoria_band_I_Ill_107.jpg/220px-Illustrerad_Verldshistoria_band_I_Ill_107.jpg",
+    "link": "https://es.wikipedia.org/wiki/Escuela_de_Mileto"
+  },
+  {
+    "period": "Edad Antigua",
+    "name": "Escuela eleática",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Parmenides.jpg",
+    "link": "https://es.wikipedia.org/wiki/Escuela_ele%C3%A1tica"
+  },
+  {
+    "period": "Edad Antigua",
+    "name": "Pitagorismo",
+    "image": "https://pm1.narvii.com/6569/fde107c64326a6f21cc8be6256e8e4f68417e313_hq.jpg",
+    "link": "https://es.wikipedia.org/wiki/Pitag%C3%B3ricos#:~:text=El%20pitagorismo%20fue%20un%20movimiento,seguidores%20recib%C3%ADan%20el%20nombre%20pitag%C3%B3ricos."
+  },
+  {
+    "period": "Edad Antigua",
+    "name": "Escuela megárica",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Euclid_of_Megara.jpg",
+    "link": "https://es.wikipedia.org/wiki/Escuela_meg%C3%A1rica"
+  },
+  {
+    "period": "Edad Antigua",
+    "name": "Sofista",
+    "image": "https://2.bp.blogspot.com/-RtDV42BiTp0/UYRljFDiE6I/AAAAAAAAAWg/MpGEq4R0oLY/s1600/gorgias.jpg",
+    "link": "https://es.wikipedia.org/wiki/Sofista"
+  },
+  {
+    "period": "Edad Antigua",
+    "name": "Platonismo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Plato_Pio-Clemetino_Inv305.jpg",
+    "link": "https://es.wikipedia.org/wiki/Platonismo"
+  },
+  {
+    "period": "Edad Antigua",
+    "name": "Peripatéticos",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg",
+    "link": "https://es.wikipedia.org/wiki/Escuela_peripat%C3%A9tica#:~:text=La%20escuela%20peripat%C3%A9tica%20fue%20un,nombre%20de%20peripat%C3%A9ticos%20(%CF%80%CE%B5%CF%81%CE%B9%CF%80%CE%B1%CF%84%CE%B7%CF%84%CE%B9%CE%BA%CE%BF%CE%AF)."
+  },
+  {
+    "period": "Edad Antigua",
+    "name": "Epicureísmo",
+    "image" : "https://upload.wikimedia.org/wikipedia/commons/9/99/Marble_head_of_Epikouros_MET_DP333053_%28cropped%29.jpg",
+    "link": "https://es.wikipedia.org/wiki/Epicure%C3%ADsmo"
+  },
+  {
+    "period": "Edad Antigua",
+    "name": "Escuela cínica",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Antisthenes_pushkin.jpg/220px-Antisthenes_pushkin.jpg",
+    "link": "https://es.wikipedia.org/wiki/Escuela_c%C3%ADnica"
+  },
+  {
+    "period": "Edad Antigua",
+    "name": "Estoicismo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Paolo_Monti_-_Servizio_fotografico_%28Napoli%2C_1969%29_-_BEIC_6353768.jpg",
+    "link": "https://es.wikipedia.org/wiki/Estoicismo"
+  },
+  {
+    "period": "Edad Antigua",
+    "name": "Escuela cirenaica",
+    "image" : "https://upload.wikimedia.org/wikipedia/commons/2/25/Aristippus.jpg",
+    "link": "https://es.wikipedia.org/wiki/Escuela_cirenaica#:~:text=La%20escuela%20cirenaica%20fue%20una,cireneos%20(seguidores%20de%20Aristipo)%2C"
+  },
+  {
+    "period": "Edad Antigua",
+    "name": "Escepticismo",
+    "image" : "https://upload.wikimedia.org/wikipedia/commons/a/aa/Pyrrho_in_Thomas_Stanley_History_of_Philosophy.jpg",
+    "link": "https://es.wikipedia.org/wiki/Escepticismo"
+  },
+  {
+    "period": "Edad Media",
+    "name": "Agustinismo",
+    "image": "https://hablemosdereligion.com/wp-content/uploads/2017/10/San-Agust%C3%ADn-3.jpg",
+    "link": "https://es.wikipedia.org/wiki/Agust%C3%ADn_de_Hipona"
+  },
+  {
+    "period": "Edad Media",
+    "name": "Escolástica",
+    "image" : "https://upload.wikimedia.org/wikipedia/commons/6/6c/Plato_Seneca_Aristotle_medieval.jpg",
+    "link": "https://es.wikipedia.org/wiki/Escol%C3%A1stica#:~:text=La%20escol%C3%A1stica%20%E2%80%94palabra%20originada%20en,cl%C3%A1sica%20para%20comprender%20la%20revelaci%C3%B3n"
+  },
+  {
+    "period": "Edad Media",
+    "name": "Averroísmo",
+    "image": "https://4.bp.blogspot.com/_hkRb6TZWu60/TB5AoOCTxmI/AAAAAAAAAY4/gzD3zMm8Q1w/s1600/averroes.jpg",
+    "link": "https://es.wikipedia.org/wiki/Averro%C3%ADsmo"
+  },
+  {
+    "period": "Edad Media",
+    "name": "Nominalismo",
+    "image" : "https://www.arteguias.com/imagenes4/santotomasaquino.jpg",
+    "link": "https://es.wikipedia.org/wiki/Nominalismo"
+  },
+  {
+    "period": "Edad Media",
+    "name": "Patrística",
+    "image" : "https://scontent.faep10-1.fna.fbcdn.net/v/t1.0-9/49080549_228202131423105_5287642041784729600_n.jpg?_nc_cat=101&_nc_sid=dd9801&_nc_ohc=zoBaPmbiabMAX8Bv9c8&_nc_ht=scontent.faep10-1.fna&oh=875489a8406c3ed7a693e9d88f826f6d&oe=5F61E2A4",
+    "link": "https://es.wikipedia.org/wiki/Patr%C3%ADstica"
+  },
+  {
+    "period" : "Edad Moderna",
+    "name": "Humanismo renacentista",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lorenzo_Valla_-_Imagines_philologorum.jpg",
+    "link": "https://es.wikipedia.org/wiki/Humanismo_renacentista"
+  },
+  {
+    "period" : "Edad Moderna",
+    "name": "RACIONALISMO",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
+    "link": "https://es.wikipedia.org/wiki/Racionalismo"
+  },
+  {
+    "period" : "Edad Moderna",
+    "name": "Empirismo",
+    "image": "https://dtcauayj04l84.cloudfront.net/users/nicolas.boullosa/photos/hume-big.jpg",
+    "link": "https://es.wikipedia.org/wiki/Empirismo"
+  },
+  {
+    "period" : "Edad Moderna",
+    "name": "Idealismo Trascendental",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Immanuel_Kant_%28painted_portrait%29.jpg",
+    "link": "https://es.wikipedia.org/wiki/Idealismo_trascendental"
+  },
+  {
+    "period" : "Edad Moderna",
+    "name": "Ilustración",
+    "image": "https://mihistoriauniversal.com/wp-content/uploads/ilustracion_europa.jpg",
+    "link": "https://es.wikipedia.org/wiki/Ilustraci%C3%B3n"
+  },
+  {
+    "period" : "Edad Moderna",
+    "name": "Contractualismo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Godfrey_Kneller_-_Portrait_of_John_Locke_%28Hermitage%29.jpg",
+    "link": "https://es.wikipedia.org/wiki/Contractualismo"
+  },
+  {
+    "period" : "Edad Moderna",
+    "name": "Pesimismo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg",
+    "link": "https://es.wikipedia.org/wiki/Pesimismo#Filosof%C3%ADa"
+  },
+  {
+    "period" : "Edad Contemporanea",
+    "name": "Positivismo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Claude_Henri_de_Rouvroy.jpg",
+    "link": "https://es.wikipedia.org/wiki/Positivismo"
+  },
+  {
+    "period" : "Edad Contemporanea",
+    "name": "Existencialismo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nietzsche187a.jpg",
+    "link": "https://es.wikipedia.org/wiki/Existencialismo"
+  },
+  {
+    "period" : "Edad Contemporanea",
+    "name": "Vitalismo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/JoseOrtegayGasset.jpg",
+    "link": "https://es.wikipedia.org/wiki/Vitalismo"
+  },
+  {
+    "period" : "Edad Contemporanea",
+    "name": "Marxismo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Karl_Marx.png",
+    "link": "https://es.wikipedia.org/wiki/Marxismo"
+  },
+  {
+    "period" : "Edad Contemporanea",
+    "name": "Estructuralismo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Ferdinand_de_Saussure.jpg",
+    "link": "https://es.wikipedia.org/wiki/Estructuralismo_(filosof%C3%ADa)"
+  },
+  {
+    "period" : "Edad Contemporanea",
+    "name": "Filosofía del absurdo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Albert_Camus2.jpg",
+    "link": "https://es.wikipedia.org/wiki/Filosof%C3%ADa_del_absurdo#:~:text=La%20filosof%C3%ADa%20del%20absurdo%20o,inexistencia%20aparente%20de%20ese%20sentido."
+  },
+  {
+    "period" : "Edad Contemporanea",
+    "name": "Teoría Crítica",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Walter_Benjamin_vers_1928.jpg",
+    "link": "https://es.wikipedia.org/wiki/Teor%C3%ADa_cr%C3%ADtica"
+  },
+  {
+    "period" : "Edad Contemporanea",
+    "name": "Posmodernidad",
+    "image": "https://foucaultmichel.files.wordpress.com/2013/01/michel-foucault.jpg",
+    "link": "https://es.wikipedia.org/wiki/Posmodernidad"
+  },
+  {
+    "period" : "Edad Contemporanea",
+    "name": "Deconstrucción",
+    "image": "https://cultura.nexos.com.mx/wp-content/uploads/2016/10/derrida.jpg",
+    "link": "https://es.wikipedia.org/wiki/Deconstrucci%C3%B3n"
+  },
+  {
+    "period" : "Edad Contemporanea",
+    "name": "Escuela de Fráncfort",
+    "image": "https://www.lifeder.com/wp-content/uploads/2017/11/escuela-de-Frankfurt.jpg",
+    "link": "https://es.wikipedia.org/wiki/Escuela_de_Fr%C3%A1ncfort"
+  },
+  {
+    "period" : "Edad Contemporanea",
+    "name": "Círculo de Viena",
+    "image": "https://conceptodefinicion.de/wp-content/uploads/2016/12/Circulo-de-viena-.jpg",
+    "link": "https://es.wikipedia.org/wiki/C%C3%ADrculo_de_Viena"
+  }
+]
