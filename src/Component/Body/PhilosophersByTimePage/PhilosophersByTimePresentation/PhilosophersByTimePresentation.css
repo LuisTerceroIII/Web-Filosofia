@@ -119,7 +119,7 @@
     transform:scale(0.1) ;
 }
 .philosophers-container--enter-active {
-    transform:scale(1) rotate(-360deg); transition: transform 1s cubic-bezier(0, 0.55, 0.45, 1)
+    transform:scale(1) rotate(-360deg); transition: transform 1.1s cubic-bezier(0, 0.55, 0.45, 1)
 }
 .philosophers-container--enter-done {}
 /*Exit*/

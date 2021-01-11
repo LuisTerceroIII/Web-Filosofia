@@ -16,6 +16,7 @@ export class HeaderPresentation extends React.Component {
             <header style={this.headerStyles}>
                 <div className={"header-container"}>
                     <h1 style={{fontSize:'400%'}}>{this.props.title}</h1>
+                    <h6 style={{textAlign:"center",fontWeight:"700",fontSize:'140%'}}>By Luis Espinoza</h6>
                 </div>
                 <div>
                     <nav className="navbar navbar-expand-lg navbar-light bg-light">
