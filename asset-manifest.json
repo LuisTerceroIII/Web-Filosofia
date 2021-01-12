@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Web-Filosofia/static/css/main.08c8cdd6.chunk.css",
-    "main.js": "/Web-Filosofia/static/js/main.91d9ae25.chunk.js",
-    "main.js.map": "/Web-Filosofia/static/js/main.91d9ae25.chunk.js.map",
+    "main.js": "/Web-Filosofia/static/js/main.bd62509e.chunk.js",
+    "main.js.map": "/Web-Filosofia/static/js/main.bd62509e.chunk.js.map",
     "runtime-main.js": "/Web-Filosofia/static/js/runtime-main.7848222f.js",
     "runtime-main.js.map": "/Web-Filosofia/static/js/runtime-main.7848222f.js.map",
     "static/js/2.74c6eaed.chunk.js": "/Web-Filosofia/static/js/2.74c6eaed.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.7848222f.js",
     "static/js/2.74c6eaed.chunk.js",
     "static/css/main.08c8cdd6.chunk.css",
-    "static/js/main.91d9ae25.chunk.js"
+    "static/js/main.bd62509e.chunk.js"
   ]
 }
