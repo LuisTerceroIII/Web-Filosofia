@@ -12,7 +12,7 @@ export class BodyContainer extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            landing: true,
+            landing: false,
             timeline: false,
             philosophers: false,
             author: false,
@@ -26,8 +26,14 @@ export class BodyContainer extends React.Component {
         })
     }
 
+    componentDidMount() {
+        this.setState({
+            landing: true
+        })
+    }
+
     period = periods[0];
-    periodsName = ["Pre-socratico","Helenico","Filosofia Medieval","Filosofia Moderna","Filosofia Contemporanea"]
+    periodsName = ["Pre-socratico","Helénico","Filosofía Medieval","Filosofía Moderna","Filosofía Contemporánea"]
 
 
     async changePhilosophersPage(periodName)  {
@@ -35,16 +41,16 @@ export class BodyContainer extends React.Component {
             case "Pre-socratico":
                 this.period = periods[0];
                 break;
-            case "Helenico":
+            case "Helénico":
                 this.period = periods[1];
                 break;
-            case "Filosofia Medieval":
+            case "Filosofía Medieval":
                 this.period = periods[2];
                 break;
-            case "Filosofia Moderna":
+            case "Filosofía Moderna":
                 this.period = periods[3];
                 break;
-            case "Filosofia Contemporanea":
+            case "Filosofía Contemporánea":
                 this.period = periods[4];
                 break
             default:
@@ -64,7 +70,7 @@ export class BodyContainer extends React.Component {
 
             <div>
 
-                <Route path={"/"} exact component={"LandingContainer"}>
+                <Route path={"/Web-Filosofia"} exact component={"LandingContainer"}>
                     {({match}) => (
                         <CSSTransition
                             in={match != null}
@@ -86,7 +92,7 @@ export class BodyContainer extends React.Component {
 
 
 
-            <Route path={"/history"} exact component={"TimeLineContainer"}>
+            <Route path={"/Web-Filosofia/history"} exact component={"TimeLineContainer"}>
                 {({match}) => (
                     <CSSTransition
                         in={match != null}
@@ -103,7 +109,7 @@ export class BodyContainer extends React.Component {
                 )}
             </Route>
 
-            <Route path={"/philosopher"} exact component={"PhilosophersByTimeContainer"}>
+            <Route path={"/Web-Filosofia/philosopher"} exact component={"PhilosophersByTimeContainer"}>
                 {({match}) => (
                     <CSSTransition
                         in={match != null}
@@ -119,7 +125,7 @@ export class BodyContainer extends React.Component {
                 )}
             </Route>
 
-            <Route path={"/schools"} exact component={"SchoolsContainer"}>
+            <Route path={"/Web-Filosofia/schools"} exact component={"SchoolsContainer"}>
                 {({match}) => (
                     <CSSTransition
                         in={match != null}

@@ -1,14 +1,22 @@
 import React from "react";
-import { useForm } from "react-hook-form";
+
+import emailjs from 'emailjs-com'
 import './FooterPresentation.css';
 
 export default function FooterPresentation(props)  {
-    const { register, handleSubmit, errors } = useForm();
-    const onSubmit = (data,e) => {
-        console.log(data);
+
+
+
+    function sendEmail(e) {
+        e.preventDefault();
+        emailjs.sendForm('service_m1i4h5k', 'contact_form', e.target, 'user_eFKkmKpg6SRYoEnLYkkJs')
+            .then((result) => {
+                console.log(result.text);
+            }, (error) => {
+                console.log(error.text);
+            });
         e.target.reset();
     }
-
 
     return (
         <div id="main-container-footer">
@@ -16,7 +24,7 @@ export default function FooterPresentation(props)  {
                 <h3>{props.title}</h3>
             </div>
             <div className="form-container">
-                <form onSubmit={handleSubmit(onSubmit)}>
+                <form onSubmit={sendEmail}>
                     <div className="input-container">
                         <div className="input-name-container">
                             <label className="label-input" htmlFor="name" >{props.form.name}</label>
@@ -24,15 +32,7 @@ export default function FooterPresentation(props)  {
                                 className={"inputs"}
                                 name="name"
                                 type="text"
-                                ref={
-                                    register({
-                                        required: {value: true, message:'¡Nombre vacio!'}
-                                    })
-                                }
                             />
-                            <span className="error">
-                                {errors.name && errors.name.message}
-                            </span>
 
                         </div>
                         <div className="input-email-container">
@@ -41,15 +41,8 @@ export default function FooterPresentation(props)  {
                                 className={"inputs"}
                                 name="email"
                                 type="text"
-                                ref={
-                                    register({
-                                        required: {value: true, message:'¡Email vacio!'}
-                                    })
-                                }
                             />
-                            <span className="error">
-                                {errors.email && errors.email.message}
-                            </span>
+
                         </div>
                     </div>
                     <div className="textarea-container">
@@ -57,18 +50,8 @@ export default function FooterPresentation(props)  {
                         <textarea
                             rows="4"
                             name="message"
-                            ref={
-                                register({
-                                    required: {value: true, message:'¡Mensaje esta vacio!'}
-                                })
-                            }
                         />
-                        <span className="error-textarea">
-                            {errors.message && errors.message.message}
-                        </span>
-
-
-                        <button className="sendButton">{props.form.button}</button>
+                        <button className="sendButton" type={'submit'}>{props.form.button}</button>
                     </div>
 
                 </form>

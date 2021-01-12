@@ -72,7 +72,7 @@ export function LandingPresentation(props) {
                         </div>
                     </Slider>
                     <div className="discoverContainer">
-                        <Link to={"/history"} onClick={() => handleOnClick()} className="enterButton"><i
+                        <Link to={"/Web-Filosofia/history"} onClick={() => handleOnClick()} className="enterButton"><i
                             className="fas fa-search"/></Link>
                         <h2 className={"landing-button-message"}>{props.message}</h2>
                     </div>

@@ -65,7 +65,7 @@ export function PhilosophersByTimePresentation(props){
                         {props.period.philosophers[index].description}
                     </p>
 
-                    <button   className="philosopher-Button"> <i className="fas fa-search"/></button>
+                    <a className="philosopher-Button" href={props.period.philosophers[index].wikiPage} target={'_blank'}> <i className="fas fa-search" /></a>
                     <h2 className="message-button-philosopher">Saber mas</h2>
 
                 </div>

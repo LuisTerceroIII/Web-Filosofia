@@ -8,13 +8,13 @@ export const MiniTimeLinePresentation = (props) => {
         switch (props.currentPeriod) {
             case "Pre-socraticos":
                 return 0;
-            case "Helenicos":
+            case "Helénicos":
                 return 1;
             case "Medievales":
                 return 2;
             case "Modernos":
                 return 3;
-            case "Contemporaneos":
+            case "Contemporáneos":
                 return 4;
             default:
                 return 0;
@@ -91,7 +91,12 @@ export const MiniTimeLinePresentation = (props) => {
                         outline: stylesOutline
                     }}
                     values={ dates }
-                    getLabel={ (date) => date.toString().slice(0,20)}
+                    getLabel={ (date) => {
+                        if(date.toString().startsWith("Filosofía Contemporá")) {
+                            return date.toString().slice(0,20) + "nea"
+                        }
+                        return date.toString().slice(0,20)
+                    }}
                     isOpenEnding={isOpenEnding}
                     isOpenBeginning={isOpenBeginning}
                 />

@@ -35,7 +35,7 @@ export class TimeLinePresentation extends React.Component {
         content: PropTypes.arrayOf(PropTypes.object).isRequired
     }
 
-    onClick(e,index) {
+    onClick(e) {
 
         this.props.changePhilosophersPage(e)
     }
@@ -46,7 +46,10 @@ export class TimeLinePresentation extends React.Component {
             return (
                 <div key={index} style={{textAlign:'center',overflow:'hidden'}}>
                     { entry.component }
-                    <Link to={"/philosopher"} className="knowMoreButton" onClick={ () => { this.onClick(entry.data,index) } }><i className="fas fa-search"/></Link>
+                    <Link to={"/Web-Filosofia/philosopher"} className="knowMoreButton" onClick={ () => {
+                        this.onClick(entry.data,index)
+                        console.log(entry.data);
+                    } }><i className="fas fa-search"/></Link>
                     <h2 className="message-button">Saber mas</h2>
                 </div>
             );
