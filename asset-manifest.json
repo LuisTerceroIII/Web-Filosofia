@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Web-Filosofia/static/css/main.50cd390d.chunk.css",
-    "main.js": "/Web-Filosofia/static/js/main.0d808354.chunk.js",
-    "main.js.map": "/Web-Filosofia/static/js/main.0d808354.chunk.js.map",
+    "main.css": "/Web-Filosofia/static/css/main.08c8cdd6.chunk.css",
+    "main.js": "/Web-Filosofia/static/js/main.91d9ae25.chunk.js",
+    "main.js.map": "/Web-Filosofia/static/js/main.91d9ae25.chunk.js.map",
     "runtime-main.js": "/Web-Filosofia/static/js/runtime-main.7848222f.js",
     "runtime-main.js.map": "/Web-Filosofia/static/js/runtime-main.7848222f.js.map",
-    "static/js/2.940bcd97.chunk.js": "/Web-Filosofia/static/js/2.940bcd97.chunk.js",
-    "static/js/2.940bcd97.chunk.js.map": "/Web-Filosofia/static/js/2.940bcd97.chunk.js.map",
+    "static/js/2.74c6eaed.chunk.js": "/Web-Filosofia/static/js/2.74c6eaed.chunk.js",
+    "static/js/2.74c6eaed.chunk.js.map": "/Web-Filosofia/static/js/2.74c6eaed.chunk.js.map",
     "index.html": "/Web-Filosofia/index.html",
-    "static/css/main.50cd390d.chunk.css.map": "/Web-Filosofia/static/css/main.50cd390d.chunk.css.map",
-    "static/js/2.940bcd97.chunk.js.LICENSE.txt": "/Web-Filosofia/static/js/2.940bcd97.chunk.js.LICENSE.txt"
+    "static/css/main.08c8cdd6.chunk.css.map": "/Web-Filosofia/static/css/main.08c8cdd6.chunk.css.map",
+    "static/js/2.74c6eaed.chunk.js.LICENSE.txt": "/Web-Filosofia/static/js/2.74c6eaed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7848222f.js",
-    "static/js/2.940bcd97.chunk.js",
-    "static/css/main.50cd390d.chunk.css",
-    "static/js/main.0d808354.chunk.js"
+    "static/js/2.74c6eaed.chunk.js",
+    "static/css/main.08c8cdd6.chunk.css",
+    "static/js/main.91d9ae25.chunk.js"
   ]
 }
